@@ -960,8 +960,8 @@ color: #70C1B3;
         font-size: 1.5rem !important;
     }
     .col-md-3{
-        padding-left: 15px !important;
-        padding-right: 15px !important;
+        padding-left: 0px !important;
+        padding-right: 0px !important;
         margin-bottom: 10px !important;
     }
     .product-to-cart .btn-primary{
